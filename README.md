@@ -1,5 +1,5 @@
-# 02460-advanced-machine-learning
-Project about privacy in Machine Learning for the course 02460 Advanced Machine Learning Spring 2021 at Technical University of Denmark.
+# Influence of attack configurations on the reconstruction of medical images in federated learning
+Code for paper under review for MIDL 2022 about privacy in federated machine learning.
 
 We explore the robustness and techniques of deep leakage from gradients (DLG) [[1]](#1). We investigate the influence of different initalization methods and distance measures by comparing the convergence rate and speed of single image reconstructions. Specifically, we compare the results with SAPAG [[2]](#2).
 
